@@ -1,16 +1,8 @@
-# t2_task_todo_blok
+# Todo Application with Bloc lib
+Flutter project
 
-A new Flutter project.
+<img src="https://github.com/noorah94/TodoWithProvider/assets/100534197/487f4f9b-5638-4f26-8b11-ec3b4e80f4cf" width="200" height="400">
+<img src="https://github.com/noorah94/TodoWithProvider/assets/100534197/5b911491-a987-4bfc-960d-692be0cc0d13" width="200" height="400">
+<img src="https://github.com/noorah94/TodoWithProvider/assets/100534197/ab7b165a-b8d2-4eb4-b17d-440bbe598c9d" width="200" height="400">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
